@@ -1,0 +1,27 @@
+{
+  "name": "yt_clone",
+  "version": "1.0.0",
+  "description": "backend for yt clone",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit-12012/yt_clone.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit-12012/yt_clone/issues"
+  },
+  "homepage": "https://github.com/Ankit-12012/yt_clone#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
